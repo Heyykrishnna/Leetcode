@@ -43,4 +43,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Heyykrishnna/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/Heyykrishnna/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
