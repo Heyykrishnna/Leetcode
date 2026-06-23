@@ -19,4 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Heyykrishnna/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 <!---LeetCode Topics End-->
