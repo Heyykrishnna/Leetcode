@@ -39,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Heyykrishnna/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
