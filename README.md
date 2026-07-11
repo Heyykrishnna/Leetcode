@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0100-same-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -201,8 +202,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0100-same-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0682-baseball-game/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
