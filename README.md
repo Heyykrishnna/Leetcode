@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Heyykrishnna/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Heyykrishnna/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Heyykrishnna/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Heyykrishnna/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
