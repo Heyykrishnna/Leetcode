@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Heyykrishnna/Leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Heyykrishnna/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Heyykrishnna/Leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Heyykrishnna/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
