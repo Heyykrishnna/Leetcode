@@ -3,7 +3,7 @@ class Solution:
         ans = 0
 
         for i in range(32):
-            ans = (ans << 1) | (n & 1)
+            res = n & 1
+            ans = (ans << 1) | res
             n >>= 1
-        
         return ans
