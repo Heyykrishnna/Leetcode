@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Heyykrishnna/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Heyykrishnna/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Heyykrishnna/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Heyykrishnna/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
