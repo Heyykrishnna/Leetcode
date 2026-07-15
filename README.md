@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0197-rising-temperature](https://github.com/Heyykrishnna/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Heyykrishnna/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0595-big-countries](https://github.com/Heyykrishnna/Leetcode/tree/main/0595-big-countries/) | Easy |
+| [0607-sales-person](https://github.com/Heyykrishnna/Leetcode/tree/main/0607-sales-person/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
