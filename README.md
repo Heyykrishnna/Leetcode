@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/Heyykrishnna/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0607-sales-person](https://github.com/Heyykrishnna/Leetcode/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
+| [1321-restaurant-growth](https://github.com/Heyykrishnna/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
