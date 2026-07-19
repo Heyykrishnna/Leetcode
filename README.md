@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-restaurant-growth](https://github.com/Heyykrishnna/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Heyykrishnna/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Heyykrishnna/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3436-find-valid-emails](https://github.com/Heyykrishnna/Leetcode/tree/main/3436-find-valid-emails/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
