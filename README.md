@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/Heyykrishnna/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Heyykrishnna/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/Heyykrishnna/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/Heyykrishnna/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [1321-restaurant-growth](https://github.com/Heyykrishnna/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Heyykrishnna/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
