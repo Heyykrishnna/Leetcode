@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Heyykrishnna/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Heyykrishnna/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Heyykrishnna/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Heyykrishnna/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Heyykrishnna/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Heyykrishnna/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Heyykrishnna/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Heyykrishnna/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Heyykrishnna/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Heyykrishnna/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Heyykrishnna/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,4 +286,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0192-word-frequency](https://github.com/Heyykrishnna/Leetcode/tree/main/0192-word-frequency/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Heyykrishnna/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
