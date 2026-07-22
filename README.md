@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Heyykrishnna/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Heyykrishnna/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Heyykrishnna/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Heyykrishnna/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0682-baseball-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0682-baseball-game/) | Easy |
