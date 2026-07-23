@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1068-product-sales-analysis-i](https://github.com/Heyykrishnna/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Heyykrishnna/Leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Heyykrishnna/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
+| [1148-article-views-i](https://github.com/Heyykrishnna/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/Heyykrishnna/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [1321-restaurant-growth](https://github.com/Heyykrishnna/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Heyykrishnna/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
