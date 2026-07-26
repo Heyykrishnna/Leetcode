@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Heyykrishnna/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Heyykrishnna/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Heyykrishnna/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Heyykrishnna/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Heyykrishnna/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Heyykrishnna/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Heyykrishnna/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Heyykrishnna/Leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
