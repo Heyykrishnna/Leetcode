@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1084-sales-analysis-iii](https://github.com/Heyykrishnna/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/Heyykrishnna/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/Heyykrishnna/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/Heyykrishnna/Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1321-restaurant-growth](https://github.com/Heyykrishnna/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Heyykrishnna/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Heyykrishnna/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
