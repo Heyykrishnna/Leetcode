@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Heyykrishnna/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Heyykrishnna/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/Heyykrishnna/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Heyykrishnna/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Heyykrishnna/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Heyykrishnna/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0877-stone-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Heyykrishnna/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Heyykrishnna/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Heyykrishnna/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -391,4 +394,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
