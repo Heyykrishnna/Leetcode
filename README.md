@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Heyykrishnna/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Heyykrishnna/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1510-stone-game-iv](https://github.com/Heyykrishnna/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/Heyykrishnna/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Heyykrishnna/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Heyykrishnna/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1510-stone-game-iv](https://github.com/Heyykrishnna/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Heyykrishnna/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Heyykrishnna/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -409,8 +411,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1510-stone-game-iv](https://github.com/Heyykrishnna/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Heyykrishnna/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Heyykrishnna/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Heyykrishnna/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Heyykrishnna/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
