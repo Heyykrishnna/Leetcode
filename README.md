@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Heyykrishnna/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0682-baseball-game/) | Easy |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Heyykrishnna/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Heyykrishnna/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Heyykrishnna/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Heyykrishnna/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
