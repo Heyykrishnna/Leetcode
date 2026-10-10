@@ -1,24 +1,32 @@
 class Solution:
-    def solveNQueens(self, n: int) -> List[List[str]]:
-        def f(row, cols, ar1, ar2, board):
-            if row == n:
-                res.append(list(board))
-                return
-            for col in range(n):
-                if col in cols or (row - col) in ar1 or (row + col) in ar2:
-                    continue
-                cols.add(col)
-                ar1.add(row - col)
-                ar2.add(row + col)
-                board.append("." * col + "Q" + "." * (n - 1 - col))
-                
-                f(row + 1, cols, ar1, ar2, board)
-                
-                board.pop()
-                ar2.remove(row + col)
-                ar1.remove(row - col)
-                cols.remove(col)
+    def solveNQueens(self, n: int) -> list[list[str]]:
+        pos = set()
+        neg = set()
+        col = set()
 
-        res = []
-        f(0, set(), set(), set(), [])
-        return res
+        ans = []
+        bo = [['.'] * n for i in range(n)]
+
+        def f(r):
+            if r == n:
+                cp = [''.join(row) for row in bo]
+                ans.append(cp)
+                return 
+            
+            for c in range(n):
+                if c in col or (r+c) in pos or (r-c) in neg:
+                    continue
+                col.add(c)
+                pos.add(r+c)
+                neg.add(r-c)
+                bo[r][c] = 'Q'
+
+                f(r + 1)
+
+                col.remove(c)
+                pos.remove(r+c)
+                neg.remove(r-c)
+                bo[r][c] = '.'
+            
+        f(0)
+        return ans
