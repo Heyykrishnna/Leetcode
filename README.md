@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Heyykrishnna/Leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Heyykrishnna/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Heyykrishnna/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Heyykrishnna/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Heyykrishnna/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Heyykrishnna/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Heyykrishnna/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Heyykrishnna/Leetcode/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Heyykrishnna/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Heyykrishnna/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
