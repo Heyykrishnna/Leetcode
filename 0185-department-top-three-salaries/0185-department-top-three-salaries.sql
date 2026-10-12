@@ -1,13 +1,6 @@
-WITH new_table AS (
-    SELECT 
-        d.name AS Department,
-        e.name AS Employee,
-        e.salary AS Salary,
-        DENSE_RANK() OVER(PARTITION BY d.name ORDER BY e.salary DESC) AS ranking
-    FROM Employee e
-    LEFT JOIN Department d
-    ON e.departmentId = d.id
-)
-SELECT Department, Employee, Salary
-FROM new_table
-WHERE ranking <= 3;
+-- Write your PostgreSQL query statement below
+
+select Department, Employee, salary from (
+    select d.name as Department, e.name as Employee, e.salary, dense_rank() over (partition by d.name order by salary desc)
+    from Employee e join department d on d.id = e.departmentId
+) where dense_rank <= 3
