@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Heyykrishnna/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Heyykrishnna/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Heyykrishnna/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0136-single-number/) | Easy |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0090-subsets-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Heyykrishnna/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Heyykrishnna/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Heyykrishnna/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/Heyykrishnna/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Heyykrishnna/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0090-subsets-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
