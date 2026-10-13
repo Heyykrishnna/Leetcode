@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Heyykrishnna/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Heyykrishnna/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Heyykrishnna/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Heyykrishnna/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Heyykrishnna/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Heyykrishnna/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Heyykrishnna/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Heyykrishnna/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
