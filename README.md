@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Heyykrishnna/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Heyykrishnna/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Heyykrishnna/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Heyykrishnna/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Heyykrishnna/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Heyykrishnna/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Heyykrishnna/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/Heyykrishnna/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Heyykrishnna/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Heyykrishnna/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Heyykrishnna/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Heyykrishnna/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Heyykrishnna/Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Heyykrishnna/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Heyykrishnna/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -508,4 +511,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Heyykrishnna/Leetcode/tree/main/0278-first-bad-version/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Heyykrishnna/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
