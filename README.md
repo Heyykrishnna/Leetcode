@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Heyykrishnna/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Heyykrishnna/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Heyykrishnna/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Heyykrishnna/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Heyykrishnna/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Heyykrishnna/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/Heyykrishnna/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Heyykrishnna/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Heyykrishnna/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Heyykrishnna/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
