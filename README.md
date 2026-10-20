@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Heyykrishnna/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/Heyykrishnna/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Heyykrishnna/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0213-house-robber-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0100-same-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -435,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0100-same-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
@@ -455,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -517,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Heyykrishnna/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Heyykrishnna/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Heyykrishnna/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Heyykrishnna/Leetcode/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
