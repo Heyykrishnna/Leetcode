@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Heyykrishnna/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Heyykrishnna/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Simulation
@@ -482,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Heyykrishnna/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -577,4 +581,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
