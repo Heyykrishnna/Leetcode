@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Heyykrishnna/Leetcode/tree/main/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Heyykrishnna/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Heyykrishnna/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Heyykrishnna/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Heyykrishnna/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Heyykrishnna/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Heyykrishnna/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -438,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
