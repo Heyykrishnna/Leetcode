@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Heyykrishnna/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Heyykrishnna/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Heyykrishnna/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Heyykrishnna/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -451,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Heyykrishnna/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
