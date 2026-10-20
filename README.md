@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Heyykrishnna/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0518-coin-change-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Heyykrishnna/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Heyykrishnna/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/Heyykrishnna/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0518-coin-change-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0877-stone-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0877-stone-game/) | Medium |
@@ -549,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/Heyykrishnna/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0518-coin-change-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -557,4 +560,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Heyykrishnna/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0518-coin-change-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
