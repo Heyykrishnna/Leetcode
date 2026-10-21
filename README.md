@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0062-unique-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Heyykrishnna/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Heyykrishnna/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Heyykrishnna/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0062-unique-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Heyykrishnna/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Heyykrishnna/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Heyykrishnna/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## String Matching
