@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Heyykrishnna/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/Heyykrishnna/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Heyykrishnna/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Heyykrishnna/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Heyykrishnna/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -633,4 +634,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0202-happy-number/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Heyykrishnna/Leetcode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
