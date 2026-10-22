@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Heyykrishnna/Leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Heyykrishnna/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Heyykrishnna/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Heyykrishnna/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/Heyykrishnna/Leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Heyykrishnna/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Heyykrishnna/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Heyykrishnna/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
