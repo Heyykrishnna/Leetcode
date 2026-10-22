@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Heyykrishnna/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Heyykrishnna/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Heyykrishnna/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0018-4sum](https://github.com/Heyykrishnna/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Heyykrishnna/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0046-permutations](https://github.com/Heyykrishnna/Leetcode/tree/main/0046-permutations/) | Medium |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Heyykrishnna/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Heyykrishnna/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Heyykrishnna/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/Heyykrishnna/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Heyykrishnna/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Heyykrishnna/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
