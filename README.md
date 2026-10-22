@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Heyykrishnna/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0213-house-robber-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/Heyykrishnna/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Heyykrishnna/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0111-minimum-depth-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Heyykrishnna/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/Heyykrishnna/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Heyykrishnna/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Heyykrishnna/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Heyykrishnna/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/Heyykrishnna/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0322-coin-change](https://github.com/Heyykrishnna/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Heyykrishnna/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -596,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Heyykrishnna/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Heyykrishnna/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0518-coin-change-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
@@ -609,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Heyykrishnna/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
