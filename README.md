@@ -371,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Heyykrishnna/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Heyykrishnna/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0143-reorder-list](https://github.com/Heyykrishnna/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Heyykrishnna/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0202-happy-number/) | Easy |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Heyykrishnna/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0143-reorder-list](https://github.com/Heyykrishnna/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Heyykrishnna/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Heyykrishnna/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Heyykrishnna/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/Heyykrishnna/Leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0143-reorder-list](https://github.com/Heyykrishnna/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Heyykrishnna/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Heyykrishnna/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Heyykrishnna/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -538,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Heyykrishnna/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/Heyykrishnna/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Heyykrishnna/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
