@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Heyykrishnna/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/Heyykrishnna/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Heyykrishnna/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Heyykrishnna/Leetcode/tree/main/0072-edit-distance/) | Medium |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Heyykrishnna/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0046-permutations](https://github.com/Heyykrishnna/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Heyykrishnna/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/Heyykrishnna/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Heyykrishnna/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/Heyykrishnna/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0190-reverse-bits](https://github.com/Heyykrishnna/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Heyykrishnna/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
