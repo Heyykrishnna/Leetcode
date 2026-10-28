@@ -1,6 +1,6 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
-        cu = [0] * 26
+        cu = [0]*26
         for c in word:
             cu[ord(c) - ord('a')] += 1
         
