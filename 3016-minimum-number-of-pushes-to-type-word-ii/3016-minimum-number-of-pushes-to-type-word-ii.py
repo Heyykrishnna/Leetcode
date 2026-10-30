@@ -8,7 +8,6 @@ class Solution:
         ans = 0
         dis = 0
         for i in cu:
-            ans += i * (1+dis//8)
+            ans += i * (1 + dis // 8)
             dis += 1
-        
         return ans
