@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Heyykrishnna/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Heyykrishnna/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0113-path-sum-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Heyykrishnna/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Heyykrishnna/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Heyykrishnna/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -614,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Heyykrishnna/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Heyykrishnna/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Heyykrishnna/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Heyykrishnna/Leetcode/tree/main/2014-longest-subsequence-repeated-k-times/) | Hard |
