@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/Heyykrishnna/Leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Heyykrishnna/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/Heyykrishnna/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/Heyykrishnna/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Heyykrishnna/Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/Heyykrishnna/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Heyykrishnna/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/Heyykrishnna/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Heyykrishnna/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Heyykrishnna/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Heyykrishnna/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Heyykrishnna/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
