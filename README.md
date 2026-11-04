@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Heyykrishnna/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Heyykrishnna/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/Heyykrishnna/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Heyykrishnna/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Heyykrishnna/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Heyykrishnna/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/Heyykrishnna/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Heyykrishnna/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0278-first-bad-version](https://github.com/Heyykrishnna/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Heyykrishnna/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
