@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Heyykrishnna/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Heyykrishnna/Leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Heyykrishnna/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Heyykrishnna/Leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Heyykrishnna/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Heyykrishnna/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/Heyykrishnna/Leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1046-last-stone-weight](https://github.com/Heyykrishnna/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Heyykrishnna/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/Heyykrishnna/Leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Heyykrishnna/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Heyykrishnna/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Heyykrishnna/Leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
